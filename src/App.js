@@ -11,7 +11,7 @@ function App() {
         </p>
         <p>
           Hi!, this is Naveen.
-        </a>
+        </p>
       </header>
     </div>
   );
