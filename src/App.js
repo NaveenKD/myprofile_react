@@ -8,8 +8,11 @@ import { BrowserRouter as Router,Routes,
 
 function App() {
   return (
+    <div>
     <Router>
     
+  
+ 
     <Routes>
           
           <Route exact path="/" element={<Home/>}/>
@@ -17,6 +20,7 @@ function App() {
         </Routes>
 
     </Router>
+    </div>
   );
 }
 

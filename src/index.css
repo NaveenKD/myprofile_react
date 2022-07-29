@@ -90,7 +90,7 @@ code {
   top:45vmin;
   width:10vmin; height:10vmin;
   border-radius:100%;
-  background:#585247;
+  background:none;
   transform:translateZ(0px);
 }
 .wrap span span{
