@@ -1,19 +1,22 @@
-import logo from './logo.svg';
+import Home from './Components/Home';
+import Experience from './Components/Experience';
 import './App.css';
+import { BrowserRouter as Router,Routes,
+  Route
+   } from "react-router-dom";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <p>
-          Hi!, this is Naveen.
-        </p>
-      </header>
-    </div>
+    <Router>
+    
+    <Routes>
+          
+          <Route exact path="/" element={<Home/>}/>
+          <Route exact path="/Experience" element={<Experience/>}/>
+        </Routes>
+
+    </Router>
   );
 }
 
