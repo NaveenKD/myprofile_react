@@ -4,7 +4,7 @@ function Home() {
       <div className="App">
         <header className="App-header">
         <div className="wrap">
-          <a href="https://www.linkedin.com/in/naveen-dhannina-1267aa100/" data-bs-toggle="tooltip" data-bs-placement="top" title="Experience"><div></div></a>
+          <a href="/Experience" data-bs-toggle="tooltip" data-bs-placement="top" title="Experience"><div></div></a>
           <a href="#" data-bs-toggle="tooltip" data-bs-placement="top" title="More>>"><div></div></a>
           <a href="https://www.linkedin.com/in/naveen-dhannina-1267aa100/" data-bs-toggle="tooltip" data-bs-placement="right" title="LinkedIn"><div></div></a>
           <a href="mailto:naveendhannina@gmail.com" data-bs-toggle="tooltip" data-bs-placement="right" title="Contact"><div></div></a>

@@ -7,6 +7,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -80,7 +82,7 @@ code {
   opacity:1 !important;
 }
 .wrap a:nth-child(5) div{
-  background-image: url('https://media-exp1.licdn.com/dms/image/C4E03AQGSTO119a2ZqA/profile-displayphoto-shrink_400_400/0/1538313467199?e=1664409600&v=beta&t=xITMT9uZEnBYSZB6r_BRs7y9heGzHtx7qE_gYAnSZwI');
+  background-image: url('https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/10405350_10204964271242064_2913583917626804053_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=PfoXDumn0jAAX9Vrp_F&_nc_ht=scontent-atl3-2.xx&oh=00_AT-D0WlkdWKeiK_hZ1pmqz2KFv4ikQgBjBuSvMCGKqxs_w&oe=630834DA');
   opacity: 1;
 }
 .wrap span{
@@ -121,4 +123,12 @@ code {
   opacity:1;
   transform:translatez(0px);
 }
+
+
+
+
+
+
+
+
 
